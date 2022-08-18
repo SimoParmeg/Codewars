@@ -1,1 +1,3 @@
-"# Codewars" 
+## THIS PAGE CONTAINS SOME CODEWARS EXERCISES SOLUTIONS
+
+https://www.codewars.com/
